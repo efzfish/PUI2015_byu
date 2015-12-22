@@ -1,0 +1,61 @@
+
+your notes and remarks on plots are fine
+10/10
+
+
+NOTES ON YOUR PLOT
+=================
+
+
+too many classes for redeability: they end up being indistinguishable in the plot
+
+the three dots in the legend (default) should be changed to 1 point since they are redundant and in a plot like this they overlap
+
+the emptiness of the plot makes it difficult to see structure: a compressed y axis would be better
+
+the number of users is redundant with the size of the dot. information should be delivered once clearly, but only once
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+==================================
+
+
+
+amp914
+======
+
+
+the overlapping bars are confusing because they change the hue of the underlying color
+
+
+the labels are small
+the ticj labels are missing on the x axis. at least a few should be marked
+
+assigning blue to man and pink to wome triggers preconceptions and stereotypes
+
+it is not clear at first what the numbers refer to.
+
+chosing blue for mand and pink for women triggers stereotypes and preconceptions
+
+lk
+==
+
+nice simple plot
+
+too much empty space on the top: distracting (and even on the left)
+
+small tick labels
+
+
+tg
+==
+
+
+too many vivid colors are distracting
+
+agegroup one word in the tiel
+
+thousands is not ameaningful axis labels; use "Population (units of 1,000 peope")
+
+and then why use units of 1000 when your first tick label is 1e5? then one has to think what 1e5*1000 is. use units of millions, and then your first tick is 100 etc
